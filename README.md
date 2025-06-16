@@ -24,4 +24,9 @@ CineDeck is a visually appealing, responsive web interface that mimics a mini Ne
 
 ---
 
+## 🖼 Preview
+
+![image](https://github.com/user-attachments/assets/0965832e-d586-4441-a9e2-cc88028aca45)
+
+
 📄 License MIT License
