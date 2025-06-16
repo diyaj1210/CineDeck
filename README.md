@@ -23,3 +23,6 @@ CineDeck is a visually appealing, responsive web interface that mimics a mini Ne
 | JavaScript | DOM manipulation for theme toggle and live search |
 
 ---
+
+📝 License
+This project is licensed under the MIT License.
