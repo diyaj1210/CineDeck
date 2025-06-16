@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MyFlix - Movie UI</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="navbar">
+  <div class="navbar-left">
+    <h1>MyFlix</h1>
+  </div>
+  <div class="navbar-right">
+    <input type="text" id="searchBar" placeholder="Search movies..." />
+    <button id="themeToggle" title="Toggle Light/Dark Mode">🌙</button>
+  </div>
+</header>
+
+<section class="movie-section">
+  <h2>Trending Now</h2>
+  <div class="movie-grid" id="movieGrid">
+
+    <div class="movie-card" data-title="500 Days of Summer">
+      <img src="images/500daysofsummer.jpg" alt="500 Days of Summer Poster">
+       <div class="movie-info">
+         <h3>500 Days of Summer</h3>
+          <p>⭐ 8.6/10</p>
+        </div>
+      </div>
+
+      <div class="movie-card" data-title="How to Lose a Guy in 10 Days">
+        <img src="images/10days.jpg" alt="How to Lose a Guy in 10 Days Poster">
+        <div class="movie-info">
+          <h3>How to Lose a Guy in 10 Days</h3>
+          <p>⭐ 8.8/10</p>
+        </div>
+      </div>
+
+      <div class="movie-card" data-title="Eternal Sunshine of the Spotless Mind">
+        <img src="images/eternalsunshine.jpg" alt="Eternal Sunshine Poster">
+        <div class="movie-info">
+          <h3>Eternal Sunshine of the Spotless Mind</h3>
+          <p>⭐ 8.2/10</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
