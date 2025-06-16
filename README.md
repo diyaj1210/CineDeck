@@ -1,6 +1,6 @@
 # 🎬 CineDeck – Responsive Movie Card Web App
 
-CineDeck is a visually appealing, responsive web interface that mimics a mini Netflix-style frontend. Built using **HTML, CSS**, and **vanilla JavaScript**, it features a dynamic grid of movie cards, a real-time search filter, and a dark/light theme toggle for an interactive user experience.
+CineDeck is a visually appealing, responsive web interface that mimics a **mini Netflix-style frontend**. Built using **HTML, CSS**, and **vanilla JavaScript**, it features a dynamic grid of movie cards, a real-time search filter, and a dark/light theme toggle for an interactive user experience.
 
 ---
 
