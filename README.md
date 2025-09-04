@@ -1,30 +1,55 @@
 # 🎬 CineDeck – Responsive Movie Card Web App
 
-CineDeck is a visually appealing, responsive web interface that mimics a **mini Netflix-style frontend**. Built using **HTML, CSS**, and **vanilla JavaScript**, it features a dynamic grid of movie cards, a real-time search filter, and a dark/light theme toggle for an interactive user experience.
+CineDeck is a sleek, responsive **Netflix-inspired frontend** built with **HTML, CSS, and Vanilla JavaScript**.  
+It features an interactive movie card grid, live search functionality, and theme toggling for an engaging user experience.
 
 ---
 
 ## 🚀 Features
 
-- 🎞️ **Movie Card Grid** – Neatly laid out responsive grid using CSS Grid and Flexbox  
-- 🔍 **Live Search Filter** – Instantly filters movie cards as the user types  
-- 🌗 **Dark/Light Theme Toggle** – Smooth toggle with emoji icon switch (🌙 / 🌞)  
-- 🎨 **Hover Effects** – Cards gently scale up on hover for interactivity  
-- 📱 **Mobile- Friendly** – Optimized layout for smaller screens  
+- 🎞️ **Responsive Movie Card Grid** – Powered by CSS Grid & Flexbox for seamless layouts  
+- 🔍 **Live Search Filter** – Instantly filters movies as you type  
+- 🌗 **Dark/Light Theme Toggle** – Smooth transition with icon switch (🌙 / 🌞)  
+- 🎨 **Hover Effects** – Interactive card scaling for better UX  
+- 📱 **Mobile Friendly** – Optimized design for all screen sizes  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| HTML5      | Page structure and semantic layout |
-| CSS3       | Styling, layout (Grid & Flexbox), hover effects |
-| JavaScript | DOM manipulation for theme toggle and live search |
+| Technology | Purpose |
+|------------|---------|
+| **HTML5**  | Page structure |
+| **CSS3**   | Styling, animations, responsiveness |
+| **JavaScript (Vanilla)** | Dynamic search & theme toggle |
 
 ---
 
-## 🖼 Preview
+## 📂 Project Structure
 
-![image](https://github.com/user-attachments/assets/0965832e-d586-4441-a9e2-cc88028aca45)
+CineDeck-main/
+│── index.html # Main HTML file
+│── styles.css # Styling & responsive design
+│── script.js # Interactivity & logic
+└── README.md # Project documentation
+
+yaml
+Copy code
+
+---
+
+## ⚡ Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/CineDeck.git
+   cd CineDeck
+Open in Browser
+Simply open index.html in your favorite browser. 🚀
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
 
