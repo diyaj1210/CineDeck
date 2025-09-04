@@ -32,9 +32,6 @@ It features an interactive movie card grid, live search functionality, and theme
 - script.js
 - README.md
 
-yaml
-Copy code
-
 ---
 
 ## ⚡ Getting Started
