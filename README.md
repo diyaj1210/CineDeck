@@ -27,11 +27,10 @@ It features an interactive movie card grid, live search functionality, and theme
 
 ## 📂 Project Structure
 
-CineDeck-main/
-│── index.html # Main HTML file
-│── styles.css # Styling & responsive design
-│── script.js # Interactivity & logic
-└── README.md # Project documentation
+- index.html
+- styles.css
+- script.js
+- README.md
 
 yaml
 Copy code
